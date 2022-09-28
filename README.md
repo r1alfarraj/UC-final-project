@@ -24,8 +24,8 @@ Rawan alfarraj
 ### Project Name
 BookShop
 # Idea
-Problem and solutions if found 
-Make like easy to read books online by one program
+
+Make life easy to read books online by one program and rate it
 
 # Future Work 
 add more books
